@@ -1,6 +1,6 @@
 ### Etapas de um programa
 
-![Fluxograma](https://github.com/elijhonathan/LogicaDeProgramacao/blob/main/Arquivos/EtapasDeUmPrograma.jpg)
+![Etapas](https://github.com/elijhonathan/LogicaDeProgramacao/blob/main/Arquivos/EtapasDeUmPrograma.jpg)
 
 Entradas: Tudo aquilo que o usuario tem que colocar de informação.
 
