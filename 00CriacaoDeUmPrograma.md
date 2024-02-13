@@ -1,4 +1,4 @@
-### Criação de um progama
+### Criação de um programa
 
 ![Fluxograma](https://github.com/elijhonathan/LogicaDeProgramacao/blob/main/Arquivos/CriacaoDeUmPrograma.jpg)
 
