@@ -1,6 +1,6 @@
 ### Criação de um progama
 
-![Hello World](https://github.com/elijhonathan/DocumentandoPython/blob/main/Arquivos/print-helloWorld.jpg)
+![Fluxograma](https://github.com/elijhonathan/LogicaDeProgramacao/blob/main/Arquivos/CriacaoDeUmPrograma.jpg)
 
 1 - Planejamento: Definir missão, obejetivos do sistema, cronogramas, custo x beneficios, etc...
 
