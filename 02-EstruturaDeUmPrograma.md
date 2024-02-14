@@ -1,3 +1,6 @@
+
+
+EstruturaDeUmPrograma
 nome do programa
 
 variaveis
