@@ -1,12 +1,14 @@
+### Estrutura de um programa
+
+![Etapas](https://github.com/elijhonathan/LogicaDeProgramacao/blob/main/Arquivos/EstruturaDeUmPrograma.jpg)
 
 
-EstruturaDeUmPrograma
-nome do programa
+Nome do algoritimo/programa: Nome do arquivo ou titulo utilizado para identificação da etapa ou do trabalho.
 
-variaveis
+Declaração de variaveis: Variaveis e seus tipos declaradas antes do começo do codigo.
 
-inicio
+Inicio: Começo do codigo seguinto etapas sequencias.
 
-processos
+Processos: Tudo aquilo que precisa ser calculado de alguma forma.
 
-fim
+Fim: Termino da execução.
